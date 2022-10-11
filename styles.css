@@ -1,0 +1,66 @@
+
+   body { 
+    background: url("img/vecteezy_abstract-glowing-sphere-shape-earth-3d-concept-planet_6202931_787.jpg") no-repeat center center fixed; 
+    opacity: 1;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+  }
+
+
+.navbar-custom {
+    background-image: linear-gradient(rgba(35, 25, 55, 0.285), rgba(30, 8, 40, 0.378));
+    background-color:rgba(32, 31, 31, 0.892);
+    border-bottom: 2px ridge;
+}
+
+.mine{
+    opacity: 1;
+    background-color: rgba(203, 194, 194, 0.823);
+   border-width: 3px;
+   border-style: ridge;
+   border-radius: 10px;
+
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.paigedan {
+    width: 60%;
+}
+
+.card {
+    background-color: rgb(81, 7, 60);
+    color: white;
+    height: 15rem;
+
+}
+
+.custom-border {
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+
+.tests {
+    color: black;
+}
+
+footer {
+margin-top: 20px;
+height: 80px; 
+background-image: linear-gradient(rgba(225, 214, 231, 0.764), rgb(65, 45, 77));
+
+}
+
+.cont{
+    color: black;
+}
+
+.asdf{
+    margin-top: 170px;
+    
+}
